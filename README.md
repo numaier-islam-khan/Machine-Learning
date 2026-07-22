@@ -1,11 +1,31 @@
-# Python Practice
+# Machine Learning
 
-This repository contains my Python practice notebooks and projects.
+This repository contains my Machine Learning learning journey.
 
-## Topics Covered
+## Repository Structure
 
-* Python Basics
-* NumPy
-* Pandas
-* Matplotlib
-* Machine Learning
+```text
+Machine-Learning/
+│
+├── README.md
+├── requirements.txt
+│
+├── 01_Data_Preprocessing/
+│   ├── Feature_Engineering.ipynb
+│   ├── RobustScaler.ipynb
+│   └── Winsorization_Technique.ipynb
+│
+├── 02_Exploratory_Data_Analysis/
+│   └── EDA.ipynb
+│
+└── 03_Projects/
+    └── Titanic_Feature_Engineering_Completed.ipynb
+```
+
+## Libraries Used
+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
